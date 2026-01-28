@@ -1,4 +1,4 @@
-# Cupoflay Portfolio App
+# CupofJay Portfolio App
 
 A beautiful personal portfolio app built with Flutter showcasing photography work and personal information.
 
@@ -10,5 +10,5 @@ A beautiful personal portfolio app built with Flutter showcasing photography wor
 
 **Josir James Calica** - BSIT Student & Photography Enthusiast
 - Location: San Pedro, Laguna
-- Instagram: @cupoflayyy_
+- Instagram: @cupofjayyy_
 
