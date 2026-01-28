@@ -27,8 +27,8 @@ A beautiful personal portfolio app built with Flutter showcasing photography wor
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/flutter-portfolio.git
-cd flutter-portfolio
+git clone https://github.com/josircalica14/exer3_calica_bsit-1-42.git
+cd exer3_calica_bsit-1-42
 ```
 
 2. Install dependencies:
